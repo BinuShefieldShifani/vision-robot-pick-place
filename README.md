@@ -242,7 +242,3 @@ MS AI & Automation · University West, Trollhättan, Sweden
 
 ---
 
-## 📄 License
-
-MIT License — code is free to use for research and educational purposes.
-The trained model weights (`best.pt`) are included for reproducibility.
