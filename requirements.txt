@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0   # required for ArUco marker support
+numpy>=1.24.0
+pypylon>=3.0.0                 # Basler camera SDK Python wrapper
+                               # Requires Basler Pylon SDK installed separately:
+                               # https://www.baslerweb.com/en/downloads/software-downloads/
