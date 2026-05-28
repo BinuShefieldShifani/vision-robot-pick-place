@@ -235,9 +235,10 @@ Upload `robot/MainModule.mod` to the ABB robot controller via RobotStudio or USB
 ## 👤 Author
 
 **Binu Shefield Shifani**
-ECE Graduate · AI/ML Engineer · Intern @ Cognizant
 
-[![GitHub](https://img.shields.io/badge/GitHub-BinuShefieldShifani-black?logo=github)](https://github.com/BinuShefieldShifani)
+Software Engineer (5 years, Cognizant Technology Solutions)
+MS AI & Automation · University West, Trollhättan, Sweden
+[GitHub](https://github.com/BinuShefieldShifani)
 
 ---
 
